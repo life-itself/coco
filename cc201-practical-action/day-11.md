@@ -1,9 +1,5 @@
 # Day 11: Have you completed our feedback form?
 
-*Subject: Day 11:*
-
-Preview: Help us help you
-
 Dear conscious human,
 
 We wanted to drop into your inbox to ask you an important question because you recently completed our Conscious Coliving in Action: Practical Steps to Getting Started course, and we'd love to receive your feedback 😊
