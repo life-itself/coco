@@ -6,13 +6,13 @@ Dear conscious human,
 
 Welcome to Conscious Coliving in Action! We’re thrilled to have you join us on this transformative journey. Over the next 8 sessions, we'll explore the practical aspects of conscious coliving and equip you with tools to bring it to life in a way that works for you.  
   
-We started this series of courses with our Conscious Coliving 101 \[link\] which covers the fundamentals of conscious coliving, and Transforming Conflict in Community \[link\], which addresses how to use conflict for growth and transformation. This course dives deeper into how you actually engage in conscious coliving, with practical steps to guide you on your way.
+We started this series of courses with our [Conscious Coliving 101](https://lifeitself.org/conscious-coliving-course) which covers the fundamentals of conscious coliving, and [Transforming Conflict in Community](https://lifeitself.org/transforming-conflict-in-community-course), which addresses how to use conflict for growth and transformation. This course dives deeper into the practical steps to engage in conscious coliving.
 
 \[Haven’t taken CC101 yet? Sign up here.\](https://lifeitself.org/conscious-coliving-course)
 
 We are covering a lot during this course and by the end of it you should:
 
-- Be clear on what kind of conscious coliving environment is best for you
+- Be clear on what conscious coliving environment is best for you
 
 - What your requirements and expectations are for conscious coliving and how to manage these
 
@@ -24,25 +24,25 @@ We are covering a lot during this course and by the end of it you should:
 
 In a nutshell, conscious coliving is the act of living together with 2 or more other people with the intention of living more conscious and physically manifested lives together, in an environment with some level of shared resources.
 
-Yes, it’s a little vague right now, but we’ll be expanding on the full spectrum of conscious coliving in our first lesson tomorrow.
+It’s might seem vague right now, but we’ll be expanding on the full spectrum of conscious coliving in our first lesson tomorrow.
 
 ### What the next 8 days will involve! 
 
-**Day 1: Full Spectrum of Conscious Coliving** - we’ll break down the spectrum of conscious coliving so you can reflect on which option works for you.
+🌈 **Day 1: Full Spectrum of Conscious Coliving** - we’ll break down the spectrum so you can reflect on which option works for you.
 
-**Day 2: Know your Values, Needs & Desires** - vital to conscious coliving and life in general, this lesson will set the foundation for you to create the vision for your coliving experience.
+🌻 **Day 2: Know your Values, Needs & Desires** - vital to conscious coliving and life in general, we will set the foundation for you to create the vision for your coliving experience.
 
-Day 3: Preparing yourself for conscious coliving - Conscious coliving starts with conscious living. In this lesson, we explore how you can prepare yourself for conscious coliving, before you even join a coliving space.
+🎒 **Day 3: Preparing yourself for conscious coliving** - We explore how you can prepare yourself for conscious coliving, before you even join a coliving space.
 
-Day 4: Roadmap for joining a conscious coliving space - By far the most accessible way to engage in conscious coliving is to join an already established space. In this lesson, we’ll take you through the steps of joining a space, from research to implementation!
+🧭 **Day 4: Roadmap for joining a conscious coliving space** - We’ll take you through the steps of joining an already established space, from research to implementation!
 
-Day 5: Transforming your coliving space to become more conscious - If you are in a coliving situation already and want to make it more conscious, this lesson is for you! We’ll cover some concrete steps towards making the shift and how to enroll your coliving members.
+🎇 **Day 5: Transforming your coliving space to become more conscious** - If you are in a coliving situation already and want to make it more conscious, this is for you! We’ll cover concrete steps towards making the shift and how to enroll your coliving members.
 
-Day 6: Considerations for starting a conscious coliving place - As we near the end of the course, we lay the foundation for starting your own conscious coliving space from scratch. In this lesson, we share what you’ll want to consider before purchasing a space and getting started.
+🤔 **Day 6: Considerations for starting a conscious coliving place** - As we near the end of the course, we lay the foundation for starting your own conscious coliving space from scratch; we share what you’ll want to consider from the very start.
 
-Day 7: Creating your conscious coliving space - In this lesson, we take a look at the necessary steps to creating a conscious coliving space and how to enroll new members once you’ve got started.
+🖼️ **Day 7: Creating your conscious coliving space** -We take a look at the necessary steps to creating a conscious coliving space and how to enroll new members once you’ve got started.
 
-Day 8: Closing thoughts and next actions - In this final email, we will wrap up everything we have learned during the course and how to put everything into action.
+🌎 **Day 8: Closing thoughts and next actions** - We wrap up everything we have learned during the course and how to put everything into action.
 
 ## Alert: Action Required 💪
 
