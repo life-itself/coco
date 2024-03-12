@@ -2,9 +2,9 @@
 
 Dear conscious human,
 
-There will be some of you out there who feel the fire to set up your own conscious coliving place. Our co-founders at Life Itself have a lot of experience with this, having set up three spaces so far in London, Berlin and Bergerac, with a fourth on its way.
+There will be some of you out there who feel the fire to set up your own conscious coliving place 🔥. Our co-founders at Life Itself have a lot of experience with this, having set up three spaces in London, Berlin and Bergerac, with a fourth on its way.
 
-It is worth noting that this is a huge topic area, so we are really only just touching the surface here. That said, today’s lesson should give you a strong foundation of items to consider at the start before you enter into the creation stage. Remember, most communities that get set up will fail, so it’s always best to start with clearing out any delusional thinking that yours will be the exception, by really diving into these considerations, which is why we have invested a lot in the next 2 days. We want you to have a clear idea and appreciation of what it takes to create successful spaces.
+It is worth noting that this is a huge topic area, so we are really only touching the surface here. That said, today’s lesson should give you a strong foundation of items to consider at the start before you enter into the creation stage. Remember, most communities that get set up will fail, so it’s always best to start with clearing out any delusional thinking that yours will be the exception by really diving into these considerations. We want you to have a clear idea and appreciation of what it takes to create successful spaces.
 
 So let’s jump in.
 
@@ -12,13 +12,13 @@ So let’s jump in.
 
 Don’t do it alone; it’s going to be hard work at the best of times, and at the worst of times you’re going to want the support of other people, have a team to bounce ideas off of and have conversations with to get alternative perspectives and ensure you are still in-line with your vision. You’re also going to want to share the harder times along with the successes and insights that come up with others.
 
-We also can’t recommend this enough because when you work collaboratively you avoid burnout and the hierarchical power struggles that often come into play with more traditional ‘I am in charge’-type structures. This doesn’t mean that working collaboratively won’t have its tensions, but this brings us back to the subtitle - find your tribe. Test the alliance and compatibility before you jump in, and go slow.
+We also can’t recommend this enough because when you work collaboratively you avoid burnout and the hierarchical power struggles that often come into play with more traditional ‘I am in charge’-type structures. This doesn’t mean that working collaboratively won’t have its tensions, and this brings us back to the subtitle - find your tribe. Test the alliance and compatibility before you jump in, and go slow 🐌.
 
 #### \#2 Start small and go slow
 
 You may have a huge vision of a community spanning hundreds of people, but trust us when we say, start small. From our experience, 3-6 is a good number of people to start with, including the founders, and don’t rush to expand; if anything, take more time.
 
-This will allow you to test out the practices and guidelines you have in place, and experience how it all plays out in reality. You will learn a lot in the process of doing, but working to have set things up (such as structures, guidelines, conflict-resolution processes, etc.) in advance as much as possible will help to create alignment and to foster intimacy, which facilitates effective communication in the initial stages.
+This will allow you to test out the practices and guidelines you have in place, and experience how it all plays out in reality. You will learn a lot in the process of doing, but having set things up (such as structures, guidelines, conflict-resolution processes, etc.) in advance as much as possible will help to create alignment and to foster intimacy, which facilitates effective communication in the initial stages.
 
 #### \#3 Decide on the approach of your conscious coliving space 
 
@@ -34,7 +34,7 @@ Linked to this and of equal importance is deciding on your economical model: who
 
 As an aside, Diana Leafe Christian, in her book, *A life together: practical tools to grow ecovillages and intentional communities,* suggests that you probably want equal or close to equal ownership/control over the underlying land asset, noting that situations where there is an owner-employer set up with non-owners-employees generally don't work well due to the power imbalances.
 
-If you’re starting to feel worried at this point, this is normal. Creating a conscious community or even being part of one, is a big undertaking. So, take a break and make a cuppa and come back for the rest.
+If you’re starting to feel worried at this point, this is normal 😅. Creating a conscious community or even being part of one, is a big undertaking. So, take a break and make a cuppa and come back for the rest 🍵.
 
 \[Image - 12 agreements\]
 
@@ -76,7 +76,7 @@ Crafting a comprehensive plan of how you will share the community with others ca
 
 #### \#7 Personality compatibility when starting out
 
-Creating a conscious coliving space extends beyond securing agreements—it’s about curating a harmonious environment rooted in shared values and mutual respect. Beyond just outlining responsibilities and conflict-resolution tactics, fostering an atmosphere of open communication and understanding is vital. When setting up your own space, emphasize the importance of compatibility, not just in terms of personalities but also in relation to lifestyles and habits. A diverse mix of individuals with varied backgrounds and skills is valuable, yet the key lies in finding a cohesive thread that unites everyone—a common vision or goal that guides the collective journey.
+Creating a conscious coliving space extends beyond securing agreements—it’s about curating a harmonious environment rooted in shared values and mutual respect. Beyond just outlining responsibilities and conflict-resolution tactics, fostering an atmosphere of open communication and understanding is vital. When setting up your own space, emphasize the importance of compatibility, not just in terms of personalities but also in relation to lifestyles and habits. **A diverse mix of individuals with varied backgrounds and skills is valuable, yet the key lies in finding a cohesive thread that unites everyone—a common vision or goal that guides the collective journey.**
 
 The selection process for potential colivers should prioritize more than mere skill sets. It should delve into individual traits, attitudes, and inclinations to ensure a well-rounded and compatible group. Compatibility isn’t solely about avoiding conflicts; it's about thriving together by leveraging each other's strengths, learning from differences, and collectively growing in a shared space where everyone feels respected and understood. In conscious coliving, compatibility is the cornerstone upon which a nurturing and sustainable community thrives.
 
@@ -110,14 +110,14 @@ You could try things such as Woof-ing together for a year, or co-living in an al
 
 And use this time to establish bonds, agreements and plans. You'll make discoveries during this preparation time which can really help you to form the vision. This period fosters bonding, solidifies agreements, and refines the communal vision. Taking the time to invest in a long-term trial period gives you opportunities and experience that can help to build a really solid foundation for when it is time to invest more heavily in the community. This time also helps you to remove any rose-tinted glasses you might still have on.
 
-As you can see from today, doing the groundwork ahead of time merely in relation to the considerations can really transform your conscious coliving space from a possibility to a highly functioning reality. Preparation is, again, key.
+As you can see from today, doing the groundwork ahead of time merely in relation to the considerations can really transform your conscious coliving space from a possibility to a highly functioning reality. **Preparation is, again, key.**
 
-Now would also be a great time to have a read of our post, *Notes on Creating a Life Together* by Diana Leafe Christian. https://lifeitself.org/blog/2021/05/14/notes-on-creating-a-life-together-by-diana-leafe-christian
+Now would also be a great time to have a read of our post, [Notes on Creating a Life Together* by Diana Leafe Christian](https://lifeitself.org/blog/2021/05/14/notes-on-creating-a-life-together-by-diana-leafe-christian)
 
 In our next email, we'll delve deeper into practical strategies for establishing a thriving community once you’ve done the groundwork and how to move from the consideration stage into the implementation.
 
-If you’re wondering why we’re spending two days on this, when we don’t recommend it, it is for exactly this reason, to give you insight into the tip of the iceberg. This might also help you understand how to find an aligned coliving space that already exists, by crossing checking some of the items we’re raising across these two days.
+If you’re wondering why we’re spending two days on this, when we don’t recommend it, it is for exactly this reason, to give you insight into the tip of the iceberg. This might also help you understand how to find an aligned coliving space that already exists, by cross checking some of the items we’re raising across these two days.
 
-Life Itself Team
+Until tomorrow,
 
 
