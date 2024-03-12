@@ -2,9 +2,9 @@
 
 Dear conscious human,  
   
-Congratulations if you’ve made it this far. The last lessons were pretty introspective, so it’s about time we get practical!  
+🥳 Congratulations made it this far. The last lessons were pretty introspective, so it’s time to get practical!  
   
-In this lesson, we’ll share a roadmap for joining a conscious coliving space. We’re starting with this option, because if you are new to conscious coliving or if you’re not actively doing it right now, it is the easiest way to start.  
+In this lesson, we’ll share a roadmap for joining a conscious coliving space. We’re starting with this option, because if you are new to conscious coliving or if you’re not actively doing it right now, this is the easiest way to start.  
   
 A lot of work goes into establishing a conscious coliving space, and joining one lets you beat the queue. The downside, of course, is that you don’t get to decide the vision, agreements or intentions. That’s why we focussed the previous email on values, needs and preparation, so that you can have clarity as an individual and can find a conscious coliving space that really aligns with you.
 
@@ -20,7 +20,7 @@ A lot of work goes into establishing a conscious coliving space, and joining one
 
 5.  You can start immediately.
 
-## Remember: start with baby steps
+## Remember: start with baby steps 🐾
 
 Just because you’ve made a commitment to this course and you are curious doesn’t mean you should rush into something.
 
@@ -44,27 +44,17 @@ To find conscious communities and spaces within this, you’ll need to then look
 
 Searching on roommate matching platforms can help, as you can add specific preferences into the search. Here are some that come recommended, but as always, do your own research to make sure it feels aligned:
 
-Anyplace
-
-Young Global Living
-
-Moving
-
-Roomsync
-
-Coliving.com
-
-Convivo
-
-FlOasis
-
-Socialbookers
-
-Roomster
-
-SpareRoom
-
-Whoomies
+- Anyplace
+- Young Global Living
+- Moving
+- Roomsync
+- Coliving.com
+- Convivo
+- FlOasis
+- Socialbookers
+- Roomster
+- SpareRoom
+- Whoomies
 
 ### \#4 Explore social media platforms 
 
@@ -94,7 +84,7 @@ A trial period of living in the conscious coliving space offers firsthand experi
 
 ### Beware the honeymoon period - trial for longer if you can
 
-After the initial trial, extending the stay for a longer period allows for a more comprehensive assessment of conscious coliving. It is easy to have a rose-tinted view after an initial trial where you are likely still in a 'honeymoon period'. Trialing for longer enables deeper connections with fellow colivers, understanding the nuances of daily interactions, and evaluating the sustainability of the community's dynamics such as providing insights into how the community handles challenges, resolves conflicts, and supports one another.
+After the initial trial, extending the stay for a longer period allows for a more comprehensive assessment of conscious coliving. It is easy to have a rose-tinted view after an initial trial where you are still in a 'honeymoon period'. Trialing for longer enables deeper connections with fellow colivers, understanding the nuances of daily interactions, and evaluating the sustainability of the community's dynamics such as providing insights into how the community handles challenges, resolves conflicts, and supports one another.
 
 ## Step four: Get clear on all agreements, commitments and contracts
 
@@ -102,7 +92,7 @@ Before signing up to join a conscious coliving space, it's imperative to thoroug
 
 #### Are you really willing to pull your weight? 
 
-Also known as the free-rider problem, participation and commitment are integral to the success of any conscious coliving space. To avoid becoming a free-rider, it's crucial to assess one's willingness to actively contribute and uphold responsibilities within the community. Consider whether you're genuinely prepared to share tasks, engage in communal activities, and contribute to the collective well-being (as well as continually work on your introspection and self-development as an on-going practice). The free-rider problem emerges when individuals benefit from the community without contributing their fair share. Being mindful of this issue and ensuring a commitment to pulling one's weight is essential for sustaining a healthy and balanced coliving environment.
+Also known as the free-rider problem, participation and commitment are integral to the success of any conscious coliving space. To avoid becoming a free-rider, it's crucial to assess one's willingness to actively contribute and uphold responsibilities within the community. **Consider whether you're genuinely prepared to share tasks, engage in communal activities, and contribute to the collective well-being** (as well as continually work on your introspection and self-development as an on-going practice). The free-rider problem emerges when individuals benefit from the community without contributing their fair share. Being mindful of this issue and ensuring a commitment to pulling one's weight is essential for sustaining a healthy and balanced coliving environment.
 
 ## Take your time
 
@@ -110,18 +100,16 @@ Take time to acknowledge that transitioning into a conscious coliving environmen
 
 ## Action time ✍️
 
-If you’re starting to feel like wow, this is hard to even know where to start, great! You are in exactly the right place.
+If you’re starting to feel like wow, this is hard to even know where to start, great! You are in exactly the right place 😉.
 
 First, take some time to breathe and digest this information. Paying attention to where you might have felt triggered, or the parts that feel a bit sticky or overwhelming gives you a lot of insight and we recommend journaling on these for clarity.
 
-Next, take some time to review and write down your next steps, to help you to start to create your own roadmap. Remember you don’t need to have it all mapped out at this point, you just need to know the very next step you’re going to take, so keep it simple.
+Next, take some time to review and write down your next steps, to help you to start to create your own roadmap. Remember you don’t need to have it all figured out at this point, you just need to know the very next step you’re going to take, so keep it simple.
 
-The action step I’m going to take next is . . .
+**The action step I’m going to take next is . . .**
 
 And if you’re feeling confident feel free to add a few more steps after this.
 
 See you tomorrow,
-
-Life Itself Team
 
 
