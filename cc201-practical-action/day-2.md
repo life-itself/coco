@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%202.jpg
+
 # Day 2: Know your Values, Needs & Desires
 
 Dear conscious human,  
