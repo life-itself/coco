@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%203.jpg
+
 # Day 3: Preparing yourself for conscious coliving - 5 key questions
 
 Dear conscious human,  
@@ -54,7 +56,7 @@ Complete equanimity to triggers is left to the realm of monks, while the average
 
 If you are not equanimous to triggers, you may seek revenge, hold pent up resentment for the other person or disassociate yourself from others. If you are equanimous to a trigger, you will notice the emotions that arise in you, take a higher perspective on why you feel those emotions and dissipate the emotions through self-acceptance, compassion and possibly a chosen embodiment practice such as yoga, breathwork, or exercise.
 
-\[Image - Day 3 Fill Up Cup\] - https://www.canva.com/design/DAF_NcitDwc/Y6P_U1LiMn6Et9Y-vdAv6Q/edit
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/day%203%20fill%20up%20cup.jpg
 
 ## Am I able to fill my own cup and not rely heavily on others? 
 
