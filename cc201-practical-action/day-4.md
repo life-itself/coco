@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%204.jpg
+
 # Day 4: Roadmap for joining a conscious coliving space
 
 Dear conscious human,  
@@ -66,7 +68,7 @@ Whatever happens, stay open-minded throughout your search process.
 
 We would also recommend between this step and the next step that you refresh your knowledge and refer back to the red flags we covered in *Conscious Coliving 101*.
 
-\[Insert Image here (if needed) - day 4 alignment\]
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/day%204%20alignment%20(1).jpg
 
 ## Step two: Visit, enquire and gauge alignment
 
