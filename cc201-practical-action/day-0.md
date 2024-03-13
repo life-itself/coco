@@ -1,4 +1,5 @@
-# Day 0: Welcome to the course
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Practical%20action%20header.jpg
+# Day 0: Welcome to the course 
 
 > The need for community has never been greater. Our hyper-individualist society is showing clear signs of decay - loneliness, mental health issues, and addiction are all on the rise. In the bigger picture there's climate change, resource scarcity and global pandemics. It does not need to be this way. Conscious Coliving is an alternative way forward.
 
@@ -54,7 +55,7 @@ We recognise that you may need time to make such a radical shift in lifestyle �
 
 Yes! Before we start there are a few actions to do right away:
 
-1. Get yourself into our Conscious Coliving Whatsapp Chat! It’s a simple chat channel to connect with other people embarking on conscious coliving and share insights, opportunities and inspiration. Join here: [https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw)
+1. Get yourself into our Conscious Coliving Whatsapp Chat! It’s a simple chat channel to connect with other people embarking on conscious coliving and share insights, opportunities and inspiration. [Join here:](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw)
 
 2. Make sure you save our email address in your contacts to avoid us unconsciously being routed to your spam. (Can you imagine?! 🤯)
 
@@ -62,7 +63,7 @@ That's it for now. Congratulations on committing to taking steps towards a more 
 
 See you tomorrow for our first lesson!
 
-Lauren & the Life Itself CoCo 🥥 team
+Lauren & the Life Itself CoCo 🥥 Team
 
 P.S. This course is brought to you by Life Itself\[hyperlink\]. If you have found your way to this email without knowing much about who we are, be sure to browse our website and find out who you’ll be navigating this journey with.
 
