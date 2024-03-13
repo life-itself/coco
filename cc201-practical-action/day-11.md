@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%2011.jpg
+
 # Day 11: Have you completed our feedback form?
 
 Dear conscious human,
