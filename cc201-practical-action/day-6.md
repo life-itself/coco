@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%206.jpg
+
 # Day 6: Considerations for starting a conscious coliving place 
 
 Dear conscious human,
@@ -36,7 +38,7 @@ As an aside, Diana Leafe Christian, in her book, *A life together: practical too
 
 If you’re starting to feel worried at this point, this is normal 😅. Creating a conscious community or even being part of one, is a big undertaking. So, take a break and make a cuppa and come back for the rest 🍵.
 
-\[Image - 12 agreements\]
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%206%20-%2012%20agreements.jpg
 
 #### \#5 The 12 agreements
 
