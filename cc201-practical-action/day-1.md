@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%201.jpg
+
 # Day 1: The Full Spectrum of Conscious Coliving
 
 Dear conscious human,
