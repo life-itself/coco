@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%205.jpg
+
 # Day 5: Transforming your coliving space to become more conscious
 
 Dear conscious human,
@@ -32,7 +34,7 @@ It’s important to engage others in the conversations and make the agreements t
 
 And have the hard conversations. Honesty, upfrontness, compromise and collaboration are likely to feature heavily. To understand how to avoid these turning into places of conflict, you can read our *Transforming Conflict in Community* course for tips!
 
-\[Image - Day 5 get buy in\]
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%205%20get%20by%20in.jpg
 
 #### Be the role model
 
