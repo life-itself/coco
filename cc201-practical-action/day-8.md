@@ -1,3 +1,5 @@
+https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%208.jpg
+
 # Day 8: Wrap Up - Are you ready to take action
 
 Dear conscious human,
@@ -13,8 +15,6 @@ That said. . .
 #### It’s easier than you think
 
 Getting involved in conscious coliving is easier than you might think. You can start small by engaging with existing coliving communities, attending events, or simply joining online platforms dedicated to conscious living. This exposure can offer insights and connections and provide momentum to steer you towards your ideal coliving environment.
-
-\[Image - day 8 leap\]
 
 #### Commitment is key
 
