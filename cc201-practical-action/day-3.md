@@ -1,6 +1,6 @@
 ---
 title: "CC201 - Day 3"
-subject: "🚀 Day 3: Conscious Coliving in Action"
+subject: "🎒 Day 3: Conscious Coliving in Action"
 ---
 
 ![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%203.jpg)
