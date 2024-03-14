@@ -1,4 +1,9 @@
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%204.jpg
+---
+title: "CC201 - Day 4"
+subject: "🧭 Day 4: Conscious Coliving in Action"
+---
+
+![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%204.jpg)
 
 # Day 4: Roadmap for joining a conscious coliving space
 
