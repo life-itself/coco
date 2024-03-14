@@ -1,4 +1,9 @@
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%208.jpg
+---
+title: "CC201 - Day 8"
+subject: "🌈 Day 8: Conscious Coliving in Action"
+---
+
+![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%208.jpg)
 
 # Day 8: Wrap Up - Are you ready to take action
 
