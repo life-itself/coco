@@ -1,4 +1,9 @@
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%205.jpg
+---
+title: "CC201 - Day 5"
+subject: "🌻 Day 5: Conscious Coliving in Action"
+---
+
+![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%205.jpg)
 
 # Day 5: Transforming your coliving space to become more conscious
 
