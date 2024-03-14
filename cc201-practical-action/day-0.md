@@ -1,5 +1,11 @@
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Practical%20action%20header.jpg
-# Day 0: Welcome to the course 
+---
+title: "CC201 - Day 0"
+subject: "🚀 Welcome to Conscious Coliving in Action"
+---
+
+![](https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Practical%20action%20header.jpg)
+
+# Welcome to the course 
 
 > The need for community has never been greater. Our hyper-individualist society is showing clear signs of decay - loneliness, mental health issues, and addiction are all on the rise. In the bigger picture there's climate change, resource scarcity and global pandemics. It does not need to be this way. Conscious Coliving is an alternative way forward.
 
