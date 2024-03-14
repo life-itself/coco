@@ -1,4 +1,9 @@
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%202.jpg
+---
+title: "CC201 - Day 2"
+subject: "💛 Day 2: Conscious Coliving in Action"
+---
+
+![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%202.jpg)
 
 # Day 2: Know your Values, Needs & Desires
 
