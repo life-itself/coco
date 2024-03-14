@@ -1,4 +1,9 @@
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%207.jpg
+---
+title: "CC201 - Day 7"
+subject: "🖼️ Day 7: Conscious Coliving in Action"
+---
+
+![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%207.jpg)
 
 # Day 7: Creating your CC space
 
