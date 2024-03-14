@@ -3,7 +3,7 @@ title: "CC201 - Day 1"
 subject: "🌎 Day 1: Conscious Coliving in Action"
 ---
 
-![]https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%201.jpg
+![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%201.jpg)
 
 # Day 1: The Full Spectrum of Conscious Coliving
 
