@@ -1,4 +1,9 @@
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%2011.jpg
+---
+title: "CC201 - Day 11"
+subject: "👋 Conscious Coliving in Action"
+---
+
+![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%2011.jpg)
 
 # Day 11: Have you completed our feedback form?
 
@@ -10,4 +15,4 @@ Would you be able to spare 30 seconds of your time to help us make this course e
 
 You’re the best! Thanks so much 😄
 
-Button link to feedback form - https://forms.gle/8npEbQPd3wZ1y8ML8
+**[Here's the link to feedback form](8https://forms.gle/8npEbQPd3wZ1y8ML)**
