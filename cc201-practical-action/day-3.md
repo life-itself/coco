@@ -3,7 +3,7 @@ title: "CC201 - Day 3"
 subject: "🎒 Day 3: Conscious Coliving in Action"
 ---
 
-![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%203.jpg)
+<img src="https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%203.jpg?raw=true" width="100%" />
 
 # Day 3: Preparing yourself for conscious coliving - 5 key questions
 
@@ -61,7 +61,7 @@ Complete equanimity to triggers is left to the realm of monks, while the average
 
 If you are not equanimous to triggers, you may seek revenge, hold pent up resentment for the other person or disassociate yourself from others. If you are equanimous to a trigger, you will notice the emotions that arise in you, take a higher perspective on why you feel those emotions and dissipate the emotions through self-acceptance, compassion and possibly a chosen embodiment practice such as yoga, breathwork, or exercise.
 
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/day%203%20fill%20up%20cup.jpg
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/day%203%20fill%20up%20cup.jpg" width="100%" />
 
 ## Am I able to fill my own cup and not rely heavily on others? 
 
@@ -71,7 +71,7 @@ Reflecting back on your needs identified yesterday, you will want to be able to 
 
 **Additionally, being aware of your own mental and emotional health or neurological challenges is important,** and although these might be more common than you might be led to think, when not managed or in our awareness, they also cause you to rely heavily on others. This is different from needing support which is a natural part of being human, and one reason why we’re pro community! Therefore, it is important to navigate this truthfully and mindfully to not place undue strain on a community. Seeking external therapy, coaching or emotional support and taking responsibility for your own mental and emotional health is key. This will ensure a balanced and healthy relationship between you and the community.
 
-This isn’t to say that the community you choose to live in won’t be there to help you out in times of need, but going in with a baseline self-reliance is a key preparation; don’t be Syd the Hungry Ghost (from our *Transforming Conflict* course). As Diane Leafe Christian quotes, “_Living in community cannot erase buried emotional pain_.”
+This isn’t to say that the community you choose to live in won’t be there to help you out in times of need, but going in with a baseline self-reliance is a key preparation; don’t be Syd the Hungry Ghost (from our *Transforming Conflict in Communities* course). As Diane Leafe Christian quotes, “_Living in community cannot erase buried emotional pain_.”
 
 There is a whole wealth of wisdom that can come from developing your mental health and being able to share this can lead to great relationships. However, conscious communities fulfill a very different role to retreats or centers focused on therapeutic practices and mental health support, and this is really the key point.
 
@@ -91,7 +91,7 @@ The point is you need to
 
 - know when to forgive,
 
-- and know when to set a boundary.
+- and know when to set a boundary,
 
 - Always seek solutions to conflict (our [*Transforming Conflict in Community*](https://lifeitself.org/transforming-conflict-in-community-course) course offers great insights, tips and strategies),
 
@@ -111,7 +111,7 @@ A quote that really helped me (Lauren) to balance boundaries was understanding t
 
 If you know you struggle with communicating or receiving boundaries, then diving in deeper to develop your self-awareness and equanimity to external triggers is a good place to start, and then coupling this with communication-based skills. Skills take time to develop, so the most important thing is to show up and keep practicing, reflecting on any ‘failures’ (it’s never a failure) to help you to grow more.
 
-\*Here’s a simple article on boundaries if you need more information into what they are or how to set them (we have no affiliation with this) https://www.realsimple.com/health/mind-mood/emotional-health/how-to-set-boundaries
+\*[Here’s a simple article on boundaries if you need more information into what they are or how to set them](https://www.realsimple.com/health/mind-mood/emotional-health/how-to-set-boundaries) (we have no affiliation with this).
 
 ## Open-mindedness is the penknife
 
@@ -137,6 +137,6 @@ The immediate task is to reflect on these 5 questions and 1 statement and unders
 
 In tomorrow's lesson, we will get into the practicalities of joining a conscious coliving space. This is the easiest way to experiment and hone your conscious coliving skills.
 
-See you there,
+See you there.
 
 
