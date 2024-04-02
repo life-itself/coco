@@ -3,7 +3,7 @@ title: "CC201 - Day 11"
 subject: "👋 Conscious Coliving in Action"
 ---
 
-![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%2011.jpg)
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%2011.jpg" width="100%" />
 
 # Day 11: Have you completed our feedback form?
 
