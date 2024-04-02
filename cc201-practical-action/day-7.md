@@ -3,7 +3,7 @@ title: "CC201 - Day 7"
 subject: "🖼️ Day 7: Conscious Coliving in Action"
 ---
 
-![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%207.jpg)
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%207.jpg" width="100%" />
 
 # Day 7: Creating your CC space
 
@@ -47,7 +47,7 @@ While traditional co-ops bind individuals to a space despite changing preference
 
 **🌋 Establishing requirements that mean it is not too easy to leave, means that those who do ‘buy in’ are really in it because they feel aligned to the community. If it is too easy to leave, it can create a real or implied disruption to its members which results in a fragile foundation.** Equally important is ensuring that the time period to leave is realistic to ensure that a rush doesn’t impact one party financially i.e. helping to ensure that market rates are honored when selling their share.
 
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/day%207%20-%20transition.jpg
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%207.jpg" width="100%" />
 
 #### \#5 Adding new members and how to enroll people after the core group
 
