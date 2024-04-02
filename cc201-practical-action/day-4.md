@@ -3,7 +3,7 @@ title: "CC201 - Day 4"
 subject: "🧭 Day 4: Conscious Coliving in Action"
 ---
 
-<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%204.jpg width="100%" />
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%204.jpg" width="100%" />
 
 # Day 4: Roadmap for joining a conscious coliving space
 
