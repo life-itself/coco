@@ -3,7 +3,7 @@ title: "CC201 - Day 5"
 subject: "🌻 Day 5: Conscious Coliving in Action"
 ---
 
-![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%205.jpg)
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%205.jpg" width="100%" />
 
 # Day 5: Transforming your coliving space to become more conscious
 
@@ -39,7 +39,7 @@ It’s important to engage others in the conversations and make the agreements t
 
 And have the hard conversations. Honesty, upfrontness, compromise and collaboration are likely to feature heavily. To understand how to avoid these turning into places of conflict, you can read our *Transforming Conflict in Community* course for tips!
 
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%205%20get%20by%20in.jpg
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%205%20get%20by%20in.jpg" width="100%" />
 
 #### Be the role model
 
