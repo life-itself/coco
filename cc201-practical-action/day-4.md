@@ -3,7 +3,7 @@ title: "CC201 - Day 4"
 subject: "🧭 Day 4: Conscious Coliving in Action"
 ---
 
-![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%204.jpg)
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%204.jpg width="100%" />
 
 # Day 4: Roadmap for joining a conscious coliving space
 
@@ -73,7 +73,7 @@ Whatever happens, stay open-minded throughout your search process.
 
 We would also recommend between this step and the next step that you refresh your knowledge and refer back to the red flags we covered in *Conscious Coliving 101*.
 
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/day%204%20alignment%20(1).jpg
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/day%204%20alignment%20(1).jpg" width="100%" />
 
 ## Step two: Visit, enquire and gauge alignment
 
@@ -117,6 +117,6 @@ Next, take some time to review and write down your next steps, to help you to st
 
 And if you’re feeling confident feel free to add a few more steps after this.
 
-See you tomorrow,
+See you tomorrow
 
 
