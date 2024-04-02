@@ -3,7 +3,7 @@ title: "CC201 - Day 6"
 subject: "🤔 Day 6: Conscious Coliving in Action"
 ---
 
-![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%206.jpg)
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%206.jpg" width="100%" />
 
 # Day 6: Considerations for starting a conscious coliving place 
 
@@ -43,7 +43,7 @@ As an aside, Diana Leafe Christian, in her book, *A life together: practical too
 
 If you’re starting to feel worried at this point, this is normal 😅. Creating a conscious community or even being part of one, is a big undertaking. So, take a break and make a cuppa and come back for the rest 🍵.
 
-https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%206%20-%2012%20agreements.jpg
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%206%20-%2012%20agreements.jpg" width="100%" />
 
 #### \#5 The 12 agreements
 
@@ -74,8 +74,6 @@ Ensure people joining your community are in full agreement with
 - The community decision making system and governance structure
 
 - What is the flexibility for co designing together i.e. evening practices
-
-#### 
 
 #### \#6 Build your conscious coliving plan, so you can pitch to people 
 
@@ -125,6 +123,6 @@ In our next email, we'll delve deeper into practical strategies for establishing
 
 If you’re wondering why we’re spending two days on this, when we don’t recommend it, it is for exactly this reason, to give you insight into the tip of the iceberg. This might also help you understand how to find an aligned coliving space that already exists, by cross checking some of the items we’re raising across these two days.
 
-Until tomorrow,
+Until tomorrow.
 
 
