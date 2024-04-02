@@ -35,7 +35,7 @@ For example, a block of flats where couples or individuals live might pool resou
 
 **The difference between conscious coliving and coliving is the relationship between the individuals and the collective initiatives they take to foster a more embodied environment.**
 
-<img src="https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/image2.png?raw=true" width="100%" />
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/image2.png" width="100%" />
 
 ### Is the sky the limit?
 
