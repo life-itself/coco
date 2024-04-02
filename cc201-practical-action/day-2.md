@@ -3,7 +3,7 @@ title: "CC201 - Day 2"
 subject: "💛 Day 2: Conscious Coliving in Action"
 ---
 
-![](https://github.com/life-itself/coco/blob/main/cc201-practical-action/img/media/Day%202.jpg)
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%202.jpg width="100%" />
 
 # Day 2: Know your Values, Needs & Desires
 
@@ -15,7 +15,7 @@ Today we are exploring the invisible forces of our soul. Yes, you read that righ
   
 Today we bring your values, needs and desires into your conscious awareness; which is highly beneficial foundational work when it comes to engaging in conscious coliving. It’s important to know and articulate your values to ensure they align with the community you seek to colive with. Knowing and articulating your needs and desires are also important to support your decision to join a conscious coliving space.
 
-<img src="img/media/image1.jpg" style="width:6.5in;height:2.16667in" />
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/image1.jpg width="100%" />
 
 ## What are your values?
 
@@ -53,7 +53,7 @@ Here are some different needs that might cause contention:
 
 - One person needs a lot of flexibility in their calendar; another person needs routine and defined weekly calendar activities.
 
-It is worth noting that the above examples are pretty superficial. Did you pick up on that? These are often our entry points, so there isn’t anything wrong with that. What makes this knowledge useful i.e. *I need a warm house vs I need to save money on the electricity,* is by digging a little deeper into it. What appears as a surface need can lead us to knowledge about our deeper values, priorities and even our insecurities. For example, perhaps the need to be warm is actually about being free to live how you want to live, whilst saving money on electricity is more about a scarcity mindset (than the actual money). **The question then becomes how do you work with that and more importantly, can you?**
+It is worth noting that the above examples are pretty superficial. Did you pick up on that? These are often our entry points, so there isn’t anything wrong with that. What makes this knowledge useful i.e. *I need a warm house vs I need to save money on the electricity*, is by digging a little deeper into it. What appears as a surface need can lead us to knowledge about our deeper values, priorities and even our insecurities. For example, perhaps the need to be warm is actually about being free to live how you want to live, whilst saving money on electricity is more about a scarcity mindset (than the actual money). **The question then becomes how do you work with that and more importantly, can you?**
 
 It is also worth noting that you may have needs that can be fulfilled outside of your conscious coliving environment, for example intimacy with another person might not have to happen in the coliving space. So really dig deep to unpack these.
 
