@@ -3,7 +3,7 @@ title: "CC201 - Day 2"
 subject: "💛 Day 2: Conscious Coliving in Action"
 ---
 
-<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%202.jpg width="100%" />
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Day%202.jpg" width="100%" />
 
 # Day 2: Know your Values, Needs & Desires
 
@@ -15,7 +15,7 @@ Today we are exploring the invisible forces of our soul. Yes, you read that righ
   
 Today we bring your values, needs and desires into your conscious awareness; which is highly beneficial foundational work when it comes to engaging in conscious coliving. It’s important to know and articulate your values to ensure they align with the community you seek to colive with. Knowing and articulating your needs and desires are also important to support your decision to join a conscious coliving space.
 
-<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/image1.jpg width="100%" />
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/image1.jpg" width="100%" />
 
 ## What are your values?
 
