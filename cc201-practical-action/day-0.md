@@ -3,7 +3,7 @@ title: "CC201 - Day 0"
 subject: "🚀 Welcome to Conscious Coliving in Action"
 ---
 
-![](https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Practical%20action%20header.jpg)
+<img src="https://raw.githubusercontent.com/life-itself/coco/main/cc201-practical-action/img/media/Practical%20action%20header.jpg" width="100%" />
 
 # Welcome to the course 
 
@@ -15,7 +15,7 @@ Welcome to Conscious Coliving in Action! We’re thrilled to have you join us on
   
 We started this series of courses with our [Conscious Coliving 101](https://lifeitself.org/conscious-coliving-course) which covers the fundamentals of conscious coliving, and [Transforming Conflict in Community](https://lifeitself.org/transforming-conflict-in-community-course), which addresses how to use conflict for growth and transformation. This course dives deeper into the practical steps to engage in conscious coliving.
 
-\[Haven’t taken CC101 yet? Sign up here.\](https://lifeitself.org/conscious-coliving-course)
+[Haven’t taken CC101 yet? Sign up here.](https://lifeitself.org/conscious-coliving-course)
 
 We are covering a lot during this course and by the end of it you should:
 
@@ -61,16 +61,11 @@ We recognise that you may need time to make such a radical shift in lifestyle �
 
 Yes! Before we start there are a few actions to do right away:
 
-1. Get yourself into our Conscious Coliving Whatsapp Chat! It’s a simple chat channel to connect with other people embarking on conscious coliving and share insights, opportunities and inspiration. [Join here:](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw)
+1. Get yourself into our Conscious Coliving Whatsapp Chat! It’s a simple chat channel to connect with other people embarking on conscious coliving and share insights, opportunities and inspiration. [Join here](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw)
 
 2. Make sure you save our email address in your contacts to avoid us unconsciously being routed to your spam. (Can you imagine?! 🤯)
 
 That's it for now. Congratulations on committing to taking steps towards a more nourishing and connected life.
 
 See you tomorrow for our first lesson!
-
-Lauren & the Life Itself CoCo 🥥 Team
-
-P.S. This course is brought to you by Life Itself\[hyperlink\]. If you have found your way to this email without knowing much about who we are, be sure to browse our website and find out who you’ll be navigating this journey with.
-
 

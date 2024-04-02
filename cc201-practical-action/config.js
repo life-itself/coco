@@ -1,5 +1,6 @@
 {
   "senderName": "Lauren Wigmore",
-  "senderEmail": "lauren@lifeitself.org",
-  "replyTo": "hello@lifeitself.org"
+  "senderEmail": "hello@lifeitself.org",
+  "replyTo": "hello@lifeitself.org",
+  "footer": "footer.md"
 }
