@@ -95,6 +95,6 @@ For example: “👋Hey I’m Kye, I’ve joined the practical steps to consciou
   
 The next lesson is really going to help you ground your vision into reality and give you the tools to communicate your vision with others.  
   
-See you there,  
+See you there.  
 
 
