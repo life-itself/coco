@@ -13,9 +13,9 @@ Ask the average person what conscious coliving is and you’ll probably get answ
 
 Conscious coliving is a relatively novel term and we’re doing our bit to make it more mainstream and bust myths like the above. There is a way to go, but we’ll make it!
 
-It’s a common misconception that conscious coliving is about sharing everything and that you have to be a hippy (we cover all the myths in CC101), but this is far from the truth. Let’s share some concrete examples of what conscious coliving might actually look like:
+It’s a common misconception that conscious coliving is about sharing everything and that you have to be a hippy (we cover all the myths in Conscious Coliving 101), but this is far from the truth. Let’s share some concrete examples of what conscious coliving might actually look like:
 
-1.  A Cenobium of monks living in a remote mountain monastery in Thailand
+1.  A group of monks living in a remote mountain monastery in Thailand
 
 2.  4 colleagues working different 9-5 jobs and sharing a flat in London
 
@@ -57,7 +57,7 @@ We think so! If you are living with people it’s best to do it consciously. We 
 
 ### Knowing your intentions is key to starting
 
-As we mentioned at the start of yesterday’s email, conscious coliving is one positive factor towards navigating the complexities of the metacrisis we find ourselves in. You need to understand your reasons for wanting to consciously colive and realize that it won’t necessarily solve your problems around loneliness or mental health issues if you haven’t done the work to investigate this yourself (for example). But when approached from a place of 'I want to be an active part of a conscious coliving environment for the cause', then you are approaching it from a healthy place. Viewing it as a solution to your problems is like dating someone because you don’t want to be alone, not necessarily because you want to be with that particular person.
+It's important to understand your reasons for wanting to consciously colive. It's also important that's it not a magic bullet: it won’t necessarily solve your problems around loneliness or mental health issues if you haven’t done the work to investigate this yourself (for example). But when approached from a place of "I want to be an active part of a conscious coliving environment to contribute in X or Y way", then you are approaching it from a healthy place. Viewing it as a solution to your problems is like dating someone because you don’t want to be alone, not necessarily because you want to be with that particular person.
 
 ✍️ Get clear on your intentions for wanting to embark on this, and be honest with yourself, to avoid heartache, by writing **your top 3 reasons for wanting to consciously colive.**
 
@@ -91,7 +91,7 @@ In the next email, we are going to discuss values, needs and desires. This will 
 
 If you haven’t introduced yourself in the [Whatsapp community](https://chat.whatsapp.com/DycZceubrTzI1DHKHZr5sw) yet, do it today. You can use the answers to the questions above as a framework.  
   
-For example: “👋Hey I’m Kye, I’ve joined the practical steps to conscious coliving course and wanted to introduce myself. I’m originally from Germany but currently residing in Australia. I’ve had many experiences of conscious and unconscious coliving over the past 18 years and have developed a lot of skills for living in community. I’m still trialing conscious coliving, and have my reservations about what is right for me, but my next big step is to start a conscious coliving space locally. I am most interested in a remote village style conscious coliving environment, the kind where each family has their own house, but we develop a strongly aligned village of conscious colivers. Does anyone else have this vision too?”  
+For example: “👋 Hey I’m Kylie, Originally from Germany, currently residing in Australia. I’ve had a few experiences of conscious and unconscious coliving. My next step is to start a conscious coliving space locally. Does anyone else have this vision too?”  
   
 The next lesson is really going to help you ground your vision into reality and give you the tools to communicate your vision with others.  
   
